@@ -1,0 +1,10 @@
+upskillCampus/
+├── code/
+│   ├── todo_list.py
+│   ├── calculator.py
+│   ├── password_generator.py
+│   └── rock_paper_scissors.py
+├── screenshots/        ← (empty, add your output images)
+├── README.md
+├── Final_Report_AravindKumar.docx
+└── Final_Report_AravindKumar.pdf
